@@ -9,4 +9,5 @@ Die Skill-Logik befindet sich in `digitalwelt_skill.py`. Zum Abfragen des Livest
 Setze die Umgebungsvariablen `TWITCH_CLIENT_ID` und `TWITCH_ACCESS_TOKEN`, um den Skill auszuführen.
 
 Telegram: @Kodiman
+
 Spendenlink: https://ko-fi.com/kodimanhimself
