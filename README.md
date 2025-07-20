@@ -10,4 +10,6 @@ Setze die Umgebungsvariablen `TWITCH_CLIENT_ID` und `TWITCH_ACCESS_TOKEN`, um de
 
 Telegram: @Kodiman
 
+Telegram Gruppe: https://server.himself.synology.me/kodi/kodiman/telegram_gruppe.html
+
 Spendenlink: https://ko-fi.com/kodimanhimself
